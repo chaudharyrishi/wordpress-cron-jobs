@@ -6,4 +6,4 @@ add define('DISABLE_WP_CRON', true); in wp-config.php</br>
 
 and in cpanel cron tab add</br> 
 
-<code>wget -q --spider https://medsinroute.com/wp-cron.php?doing_wp_cron</code> 
+<code>wget -q --spider https://example.com/wp-cron.php?doing_wp_cron</code> 
